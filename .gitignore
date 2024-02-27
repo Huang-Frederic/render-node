@@ -3,6 +3,8 @@
 Icon?
 ._*
 
+.yaml/*
+
 # Windows
 Thumbs.db
 ehthumbs.db
